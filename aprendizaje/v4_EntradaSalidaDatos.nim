@@ -7,4 +7,3 @@ echo "Hola, ", nombre, "!"
 echo "¿Cuántos años tienes?"
 let edad = stdin.readLine().parseInt()
 echo "En 10 años tendrás ", edad + 10
-
